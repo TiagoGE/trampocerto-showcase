@@ -1,6 +1,5 @@
-<div align="center">
-
 # TrampoCerto
+
 
 **A full-stack mobile marketplace connecting construction workers with companies that need to hire fast.**
 
@@ -26,12 +25,23 @@ TrampoCerto is a two-sided marketplace for the construction industry. **Workers*
 
 ## Screenshots
 
-<!-- Substitua pelos seus prints. Sugestão: 3-4 imagens lado a lado.
-     Tira print no celular/emulador, arrasta pra cá no editor do GitHub que ele gera o link. -->
+### Company Dashboard (Web)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e31b1b36-8808-4371-923d-53b63d50888c" alt="Company web dashboard" width="90%" />
+</div>
 
-| Mobile App | Web Dashboard | Admin Panel |
-|:---:|:---:|:---:|
-| _(print aqui)_ | _(print aqui)_ | _(print aqui)_ |
+### Mobile App
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/642363c1-8e2c-4f39-9093-9f0f93c9300f" alt="Mobile app — worker profile" width="30%" />
+  <img src="https://github.com/user-attachments/assets/16f48506-a578-4dad-981a-27168c77e2d9" alt="Mobile app — job feed" width="30%" />
+  <img src="https://github.com/user-attachments/assets/043fe307-f260-4b00-8234-05274c42e4aa" alt="Mobile app — job detail" width="30%" />
+</div>
+
+
+### Admin Panel
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/97eda95e-f841-4fdf-b6bd-a47e29dde73f" alt="Admin panel — overview" width="90%" />
+</div>
 
 ---
 
