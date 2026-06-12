@@ -3,11 +3,11 @@
 
 **A full-stack mobile marketplace connecting construction workers with companies that need to hire fast.**
 
-[![React Native](https://img.shields.io/badge/React_Native-Expo-000020?logo=expo&logoColor=white)]()
-[![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]()
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)]()
-[![Status](https://img.shields.io/badge/status-in_production-success)]()
+![React Native](https://img.shields.io/badge/React_Native-Expo-000020?logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Status](https://img.shields.io/badge/status-in_production-success)
 
 </div>
 
