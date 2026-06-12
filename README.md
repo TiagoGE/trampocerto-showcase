@@ -98,6 +98,6 @@ A few choices I'm proud of:
 
 Built end-to-end by **Tiago Guerra Endsfeldz** — data modeling, backend, mobile app, web dashboard, payments and deployment.
 
-- 🔗 LinkedIn: _(seu link)_
-- 🌐 Live: _(trampocertoapp.com, se quiser divulgar)_
+- 🔗 LinkedIn: _https://www.linkedin.com/in/tiago-guerra-endsfeldz-3a992720a/_
+- 🌐 Live: _trampocertoapp.com_
 - 📧 tiago.guerrae@gmail.com
