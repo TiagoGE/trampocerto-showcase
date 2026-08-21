@@ -1,21 +1,18 @@
 <div align="center">
 
-# TrampoCerto
+<img src="docs/banner.png" alt="TrampoCerto — construction hiring, end to end" width="100%" />
+
+<br><br>
 
 **A full-stack mobile marketplace connecting construction workers with companies that need to hire fast.**
 
-<!-- Quando as lojas estiverem públicas, transforme os dois badges abaixo em links:
+<!-- Quando as lojas estiverem públicas, transforme os dois primeiros badges em links:
      [![iOS](url-do-badge)](https://apps.apple.com/app/idXXXXXXXX)
      [![Android](url-do-badge)](https://play.google.com/store/apps/details?id=XXXX) -->
 
-![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
-![Status](https://img.shields.io/badge/status-in_production-2EA44F?style=flat-square)
-
-![React Native](https://img.shields.io/badge/React_Native-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-App_Store-18181B?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Google_Play-18181B?style=for-the-badge&logo=googleplay&logoColor=40E0D0)
+![Status](https://img.shields.io/badge/in_production-40E0D0?style=for-the-badge&labelColor=18181B)
 
 [**trampocertoapp.com**](https://www.trampocertoapp.com/)
 
