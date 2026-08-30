@@ -6,12 +6,8 @@
 
 **A full-stack mobile marketplace connecting construction workers with companies that need to hire fast.**
 
-<!-- Quando as lojas estiverem públicas, transforme os dois primeiros badges em links:
-     [![iOS](url-do-badge)](https://apps.apple.com/app/idXXXXXXXX)
-     [![Android](url-do-badge)](https://play.google.com/store/apps/details?id=XXXX) -->
-
-![iOS](https://img.shields.io/badge/iOS-App_Store-18181B?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Google_Play-18181B?style=for-the-badge&logo=googleplay&logoColor=40E0D0)
+[![iOS](https://img.shields.io/badge/iOS-App_Store-18181B?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/id6801587837)
+[![Android](https://img.shields.io/badge/Android-Google_Play-18181B?style=for-the-badge&logo=googleplay&logoColor=40E0D0)](https://play.google.com/store/apps/details?id=com.trampocerto.app)
 ![Status](https://img.shields.io/badge/in_production-40E0D0?style=for-the-badge&labelColor=18181B)
 
 [**trampocertoapp.com**](https://www.trampocertoapp.com/)
